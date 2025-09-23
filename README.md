@@ -5,7 +5,7 @@
 I’m a **Software Engineer (Fullstack Developer)** passionate about building impactful solutions.  
 I work across the stack using modern technologies and always love to learn something new.
 
-- 🖥️ **Languages & Tech:**  
+- 🖥️ **Languages & Tech:**
   Typescript, Javascript, PHP, Java  
   Currently learning GO  
   Ubuntu user since 2021  
@@ -17,15 +17,7 @@ I work across the stack using modern technologies and always love to learn somet
 
 - 💡 **Motto:**  
   _code fix ur problems_
-
-## 🌟 Featured Repositories
-
-- [meterin_api](https://github.com/xnuxuz/meterin_api)
-- [dashboard-meterin](https://github.com/xnuxuz/dashboard-meterin)
-- [meterin_scheduler_services](https://github.com/xnuxuz/meterin_scheduler_services)
-- [meterin_polling_services](https://github.com/xnuxuz/meterin_polling_services)
-- [wfe-nexus-frontend](https://github.com/dimyteknologi/wfe-nexus-frontend)
-
+  
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/adam-albani)
@@ -34,3 +26,4 @@ I work across the stack using modern technologies and always love to learn somet
 ---
 
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnuxuz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnuxuz&layout=compact&theme=radical)
