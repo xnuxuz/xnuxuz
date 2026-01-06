@@ -11,12 +11,7 @@ I work across the stack using modern technologies and always love to learn somet
   Ubuntu user since 2021  
   Experienced with DevOps, Docker, and CI/CD
 
-- 🔬 **Favorite Project:**  
-  My favorite project (private repository) is a Decision Support System (DSS) for economic analysis.  
-  The result is critical data for shaping regional regulations (`peraturan daerah`).
-
-- 💡 **Motto:**  
-  _code fix ur problems_
+  _trial & error_
   
 ## 📫 Connect with Me
 
