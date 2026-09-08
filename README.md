@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=%5B+SYSTEM+ONLINE+%5D;WELCOME+NEON+NETRUNNER;ADAM+ALBANI+//+XNUXUZ" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=%5B+SOFTWARE+ENGINEER+%5D;WELCOME+NEON+NETRUNNER;ADAM+ALBANI+//+XNUXUZ" alt="Typing Header" />
 </h1>
 
 <p align="center">
@@ -11,6 +11,6 @@
 ```bash
 > INITIALIZING SYSTEM...
 > USER: Adam Albani [alias: xnuxuz]
-> STATUS: Building impactful digital solutions.
-> OS_VERSION: Ubuntu Linux (Active since 2021)
+> STATUS: Code fix ur problems (AI).
+> OS_VERSION: Ubuntu Linux (since 2021)
 > CURRENT_EXECUTION: Trial & Error Protocol
