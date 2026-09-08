@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F0FF&height=180&section=header&text=ADAM%20ALBANI%20TIMMOTHY&fontSize=38&fontColor=00F0FF&fontAlignY=35&desc=Fullstack%20Software%20Engineer&descAlignY=55&descSize=18&descColor=E6EDF3&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F0FF&height=180&section=header&text=ADAM%20ALBANI%20TIMMOTHY&fontSize=38&fontColor=00F0FF&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18&descColor=E6EDF3&animation=fadeIn" />
 <br/><br/>
 <img src="https://raw.githubusercontent.com/xnuxuz/xnuxuz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </div>
