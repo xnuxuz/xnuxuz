@@ -1,16 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=%5B+SOFTWARE+ENGINEER+%5D;WELCOME+NEON+NETRUNNER;ADAM+ALBANI+//+XNUXUZ" alt="Typing Header" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-SOFTWARE_ENGINEER-00F0FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/ROLE-FULLSTACK_DEVELOPER-FF003C?style=for-the-badge&logoColor=white" />
+  <!-- ANIMATED CYBER HEADER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=600&height=50&lines=%5B+SYSTEM+ONLINE+%5D;ADAM+ALBANI+//+XNUXUZ;FULLSTACK+DEVELOPER+%26+SYSTEMS" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- STATUS BADGES -->
+  <img src="https://img.shields.io/badge/ROLE-FULLSTACK_DEVELOPER-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/INFRA-DEVOPS_%26_DOCKER-FF003C?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-UBUNTU_LINUX-FFE600?style=for-the-badge&logo=ubuntu&logoColor=black" />
-</p>
 
-```bash
-> INITIALIZING SYSTEM...
-> USER: Adam Albani [alias: xnuxuz]
-> STATUS: Code fix ur problems (AI).
-> OS_VERSION: Ubuntu Linux (since 2021)
-> CURRENT_EXECUTION: Trial & Error Protocol
+</div>
+
+<br/>
+
+### ⚡ // SYSTEM OVERVIEW & TELEMETRY
+
+```yaml
+Operator: Adam Albani [alias: xnuxuz]
+Role: Fullstack Software Engineer
+Core Expertise: Web Applications, REST APIs, & Infrastructure
+System Host: Ubuntu Linux (User since 2021)
+Methodology: Trial & Error Protocol, Continuous Integration
