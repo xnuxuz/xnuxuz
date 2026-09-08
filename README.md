@@ -26,11 +26,10 @@
 ## 📊 GitHub Stats
 <div align="center">
 <img height="165" src="https://gh-stats.work/api?username=xnuxuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<br/>
 <img height="165" src="https://gh-stats.work/api/top-langs/?username=xnuxuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xnuxuz&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xnuxuz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=FF003C&point=FFE600" width="100%"/>
 </div>
 
 ## 📫 Connect with Me
